@@ -29,6 +29,15 @@ Création d’un dépôt, gestion de versions, et publication de livrables.
 
 ## Déroulement et livrables ##
 
+Dépôt Git
+│
+├── Branche master
+│   ├── clients.sql
+│   └── factures.sql
+│
+└── Branche main
+    └── README.md
+
 ## Challenges et solutions ##
 
 ## Conclusion ##
