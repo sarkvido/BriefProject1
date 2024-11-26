@@ -7,12 +7,11 @@
  
 ## Introduction ##
 
-Dans le cadre du Brief Projet 1, Nous avions eu l'opportunité de nous familiariser avec les outils et environnements liés à la `Business Intelligence (MSBI)`, en particulier avec `SQL Server` et ses composants associés. Ce projet avait pour objectif de me permettre de maîtriser l'installation et la configuration des outils MSBI, ainsi que de manipuler une base de données à travers des requêtes SQL et des processus de restauration.
+Dans le cadre du Brief Projet 1, Nous avions eu l'opportunité de nous familiariser avec les outils et environnements liés à la `Business Intelligence (MSBI)`, en particulier avec `SQL Server` et ses composants associés. Ce projet avait pour objectif de nous permettre de maîtriser l'installation et la configuration des outils MSBI, ainsi que de manipuler une base de données à travers des requêtes SQL et des processus de restauration.
 
-Tout au long de ce projet, j'ai acquis des compétences techniques essentielles, telles que l'installation de SQL Server 2019, la gestion des bases de données via `SQL Server Management Studio (SSMS)`, et l'importation de bases de données comme `AdventureWorks`. J'ai également eu l'occasion d'explorer les outils d'analyse de données comme `Power BI`, de créer des tables, de réaliser des requêtes SQL et de manipuler des données en vue d'analyses précises.
+Tout au long de ce projet, Nous avons acquis des compétences techniques essentielles, telles que l'installation de SQL Server 2019, la gestion des bases de données via `SQL Server Management Studio (SSMS)`, et l'importation de bases de données comme `AdventureWorks`. Nous avons également eu l'occasion d'explorer les outils d'analyse de données comme `Power BI`, de créer des tables, de réaliser des requêtes SQL et de manipuler des données en vue d'analyses précises.
 
-Ce rapport présente en détail les différentes étapes du projet, les défis rencontrés lors de l'installation et de l'importation des données, ainsi que les solutions apportées pour surmonter ces obstacles. À travers cette expérience, j'ai non seulement consolidé mes compétences techniques mais aussi renforcé ma capacité à résoudre des problèmes concrets dans un environnement de développement Business Intelligence.
-   
+Ce rapport présente en détail les différentes étapes du projet, les défis rencontrés lors de l'installation et de l'importation des données, ainsi que les solutions apportées pour surmonter ces obstacles.
 
 ## Compétences développées ##
 
