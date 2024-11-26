@@ -38,8 +38,8 @@ Création d’un dépôt, gestion de versions, et publication de livrables.
 
 1. **Branche `master`** :
    - Contient les fichiers SQL :
-     - `clients.sql`
-     - `factures.sql`
+     - `AdvWorkQuery.sql`
+     - `VenteV1.sql`
 
 2. **Branche `main`** :
    - Contient le fichier `README.md`.
