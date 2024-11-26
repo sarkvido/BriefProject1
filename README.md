@@ -32,8 +32,18 @@ Manipulation de bases de données
 
  - Importation de AdventureWorksDW2016.
    * Exécution de requêtes (ventes par région, produits listés, etc.).
-Utilisation de Git et GitHub :
-Création d’un dépôt, gestion de versions, et publication de livrables.
+
+     ```bash
+       USE AdventureWorksDW2016;
+
+      --Affichage des montants de vente sur internet pour la France
+     
+      SELECT f.SalesAmount, d.SalesTerritoryCountry
+      FROM FactInternetSales f
+      INNER JOIN DimSalesTerritory d
+      ON f.SalesTerritoryKey = d.SalesTerritoryKey
+      WHERE d.SalesTerritoryCountry = 'France';
+      ```
 
 ## Déroulement et livrables ##
 
