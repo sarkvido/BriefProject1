@@ -49,7 +49,7 @@ Manipulation de bases de données
      --Afficher la table DimProduct
      SELECT * FROM DimProduct;
      
-     --Afficher la liste des tous les noms de produits de maniere unique 
+     --Afficher la liste de tous les noms de produits de maniere unique 
      SELECT DISTINCT EnglishProductName FROM DimProduct;
        ```
 
