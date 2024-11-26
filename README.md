@@ -29,7 +29,7 @@ Création d’un dépôt, gestion de versions, et publication de livrables.
 
 ## Déroulement et livrables ##
 
-### Explication de la structure de mon depot git :
+### Explication de la structure de mon dépôt git :
 
 1. **Branche `master`** :
    - Contient les fichiers SQL :
