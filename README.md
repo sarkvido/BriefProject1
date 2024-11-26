@@ -40,6 +40,12 @@ Dépôt Git
 
 ## Challenges et solutions ##
 
+1. Problème d'installation de SQL Server
+L'un des premiers défis que j'ai rencontrés a été l'installation de SQL Server. En effet, durant l'installation, j'ai rencontré un problème lié à la certification. Ce souci a été résolu en cochant la case "Trust to review certificate", ce qui m'a permis de poursuivre l'installation sans autres complications.
+
+2. Difficulté avec le processus de restauration de la base AdventureWorks
+Une autre difficulté est survenue lors de l'importation de la base de données AdventureWorks. En tentant de restaurer la base, j'ai rencontré des erreurs. Après plusieurs essais, j'ai finalement résolu ce problème en déplaçant le fichier de sauvegarde .bak dans le dossier Backup de SQL Server, ce qui a permis à la restauration de se dérouler correctement.
+
 ## Conclusion ##
 
 
