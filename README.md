@@ -44,6 +44,14 @@ Manipulation de bases de données
       ON f.SalesTerritoryKey = d.SalesTerritoryKey
       WHERE d.SalesTerritoryCountry = 'France';
       ```
+     
+     ```bash
+     --Afficher la table DimProduct
+     SELECT * FROM DimProduct;
+     
+     --Afficher la liste des tous les noms de produits de maniere unique 
+     SELECT DISTINCT EnglishProductName FROM DimProduct;
+       ```
 
 ## Déroulement et livrables ##
 
