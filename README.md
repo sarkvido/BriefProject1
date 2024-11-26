@@ -25,7 +25,7 @@ Installation et configuration des outils :
 
 Manipulation de bases de données
 
- - Création de la base de données **Vente** et des tables (**Clients** et **Factures**) sur SSMS.
+ - Création de la base de données `Vente` et des tables (`Clients` , `Factures`) sur SSMS.
  - Rédaction de scripts SQL pour gérer les données.
 Importation de AdventureWorksDW2016.
 Exécution de requêtes (ventes par région, produits listés, etc.).
