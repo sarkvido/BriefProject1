@@ -29,7 +29,7 @@ Création d’un dépôt, gestion de versions, et publication de livrables.
 
 ## Déroulement et livrables ##
 
-### Explication de la structure :
+### Explication de la structure de mon depot git :
 
 1. **Branche `master`** :
    - Contient les fichiers SQL :
@@ -40,14 +40,13 @@ Création d’un dépôt, gestion de versions, et publication de livrables.
    - Contient le fichier `README.md`.
 
 
-
 ## Challenges et solutions ##
 
 ### Problème d'installation de SQL Server ### 
 L'un des premiers défis que j'ai rencontrés a été l'installation de SQL Server. En effet, durant l'installation, j'ai rencontré un problème lié à la certification. Ce souci a été résolu en cochant la case **"Trust to review certificate"**, ce qui m'a permis de poursuivre l'installation sans autres complications.
 
 ###  Difficulté avec le processus de restauration de la base AdventureWorksDW2016 ### 
-Une autre difficulté est survenue lors de l'importation de la base de données **AdventureWorksDW2016** . En tentant de restaurer la base, j'ai rencontré des erreurs. Après plusieurs essais, j'ai finalement résolu ce problème en déplaçant le fichier de sauvegarde .bak dans le dossier Backup de SQL Server, ce qui a permis à la restauration de se dérouler correctement.
+Une autre difficulté est survenue lors de l'importation de la base de données `AdventureWorksDW2016` . En tentant de restaurer la base, j'ai rencontré des erreurs. Après plusieurs essais, j'ai finalement résolu ce problème en déplaçant le fichier de sauvegarde `.bak` dans le dossier Backup de SQL Server, ce qui a permis à la restauration de se dérouler correctement.
 
 ## Conclusion ##
 
