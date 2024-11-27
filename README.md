@@ -54,7 +54,8 @@ Manipulation de bases de données
      --Afficher la liste de tous les noms de produits de maniere unique 
      SELECT DISTINCT EnglishProductName FROM DimProduct;
        ```
-     <img width="167" alt="JOININGQUERY" src="https://github.com/user-attachments/assets/569c3853-f51d-4df5-96cf-865a689b4cd5">
+    <img width="529" alt="QUERYDIMPRODUCT" src="https://github.com/user-attachments/assets/274df348-9832-4b3e-b42e-312fecb2b4db">
+
      <img width="138" alt="UNIKPRODUCTNAME" src="https://github.com/user-attachments/assets/c940a71b-7bd2-4d83-a5c2-ad7e0139df4b">
 
 
