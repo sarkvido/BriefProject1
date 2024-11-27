@@ -67,6 +67,7 @@ Manipulation de bases de données
    - Contient les fichiers SQL :
      - `AdvWorkQuery.sql` qui contient les requêtes
      - `VenteV1.sql` qui crée la base de données `Vente` et ses tables `Clients` et `Factures`
+     - Je n'ai pas réussi a mettre le fichier `.bak` de `AdventureWorksDW2016` parce que c'était trop lourd donc pas possible de mettre sur github 
 
 2. **Branche `main`** :
    - Contient le fichier `README.md`.
@@ -80,5 +81,13 @@ L'un des premiers défis que j'ai rencontrés a été l'installation de SQL Serv
 Une autre difficulté est survenue lors de l'importation de la base de données `AdventureWorksDW2016` . En tentant de restaurer la base, j'ai rencontré des erreurs. Après plusieurs essais, j'ai finalement résolu ce problème en déplaçant le fichier de sauvegarde `.bak` dans le dossier Backup de SQL Server, ce qui a permis à la restauration de se dérouler correctement.
 
 ## Conclusion ##
+
+Ce projet constitue une étape essentielle pour poser les bases solides de nos futurs travaux en Business Intelligence. À travers l’installation et la configuration des outils `Microsoft SQL Server` et `Power BI`, ainsi que la manipulation de données relationnelles, nous avons acquis des compétences fondamentales nécessaires pour évoluer dans un environnement BI professionnel.
+
+Ce processus a permis de nous familiariser avec les différentes technologies et d’exécuter des requêtes sur des jeux de données concrets, renforçant ainsi notre compréhension des flux de données et des outils de visualisation. Ces acquis nous offriront une agilité et une efficacité accrues dans nos futurs projets BI, ouvrant la voie à des analyses plus complexes et stratégiques.
+
+En conclusion, ce projet n’est pas seulement une initiation technique, mais aussi un tremplin vers une maîtrise approfondie des environnements BI, indispensable dans le contexte actuel de gestion et d’analyse des données.
+
+
 
 
