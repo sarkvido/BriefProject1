@@ -27,7 +27,7 @@ Manipulation de bases de données
 
 - Création de la base de données `Vente` et des tables (`Clients` , `Factures`) sur SSMS.
   
-<img width="585" alt="diagVente" src="https://github.com/user-attachments/assets/4e06981b-f3e6-4af7-90ee-9ab5c116c23b">
+   <img width="585" alt="diagVente" src="https://github.com/user-attachments/assets/4e06981b-f3e6-4af7-90ee-9ab5c116c23b">
 
 
  - Importation de AdventureWorksDW2016.
@@ -65,8 +65,8 @@ Manipulation de bases de données
 
 1. **Branche `master`** :
    - Contient les fichiers SQL :
-     - `AdvWorkQuery.sql`
-     - `VenteV1.sql`
+     - `AdvWorkQuery.sql` qui contient les requêtes
+     - `VenteV1.sql` qui cree la base de données et ses tables `Clients` et `Factures`
 
 2. **Branche `main`** :
    - Contient le fichier `README.md`.
