@@ -44,6 +44,8 @@ Manipulation de bases de données
       ON f.SalesTerritoryKey = d.SalesTerritoryKey
       WHERE d.SalesTerritoryCountry = 'France';
       ```
+     <img width="167" alt="JOININGQUERY" src="https://github.com/user-attachments/assets/f264168f-b6b6-453d-99d3-071fc9751a7e">
+
      
      ```bash
      --Afficher la table DimProduct
@@ -52,6 +54,9 @@ Manipulation de bases de données
      --Afficher la liste de tous les noms de produits de maniere unique 
      SELECT DISTINCT EnglishProductName FROM DimProduct;
        ```
+     <img width="167" alt="JOININGQUERY" src="https://github.com/user-attachments/assets/569c3853-f51d-4df5-96cf-865a689b4cd5">
+     <img width="138" alt="UNIKPRODUCTNAME" src="https://github.com/user-attachments/assets/c940a71b-7bd2-4d83-a5c2-ad7e0139df4b">
+
 
 ## Déroulement et livrables ##
 
