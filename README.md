@@ -66,7 +66,7 @@ Manipulation de bases de données
 1. **Branche `master`** :
    - Contient les fichiers SQL :
      - `AdvWorkQuery.sql` qui contient les requêtes
-     - `VenteV1.sql` qui cree la base de données et ses tables `Clients` et `Factures`
+     - `VenteV1.sql` qui crée la base de données `Vente` et ses tables `Clients` et `Factures`
 
 2. **Branche `main`** :
    - Contient le fichier `README.md`.
