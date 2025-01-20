@@ -71,6 +71,7 @@ Manipulation de bases de données
 
 2. **Branche `main`** :
    - Contient le fichier `README.md`.
+   - Et un fichier pdf `BriefProjet1_Presentation.pdf`.
 
 ## Challenges et solutions ##
 
